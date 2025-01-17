@@ -1,5 +1,0 @@
-#!/bin/bash
-
-cd /opt/PHANTX/impulse
-
-python3 impulse.py "$@"
