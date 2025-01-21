@@ -1,3 +1,5 @@
+rm -rf .git*
+
 cp -Rf $(pwd) /opt/PHANTX/impulse
 
 WORKDIR=$(pwd)
