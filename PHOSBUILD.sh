@@ -8,7 +8,7 @@ rm -rf .git*
 pip3 install -r requirements.txt
 echo "Pip Install... PASS!"
 
-cp -Rf $(pwd) /opt/PHANTX/impulse
+cp -Rf $(pwd) /opt/PHANTX/Impulse
 
 echo "Copy PACKAGE... PASS!"
 
