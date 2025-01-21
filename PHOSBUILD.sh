@@ -10,3 +10,5 @@ echo "Pip Install... PASS!"
 cp -Rf $(pwd) /opt/PHANTX/impulse
 
 echo "Copy PACKAGE... PASS!"
+
+cp -Rf phantxbin/* /opt/PHANTX/bin
