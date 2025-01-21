@@ -1,3 +1,5 @@
+#!/bin/bash
+
 rm -rf /opt/PHANTX/Impulse
 
 rm -rf .git*
